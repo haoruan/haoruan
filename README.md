@@ -4,8 +4,8 @@
 
 <h3>👨🏽‍💻&nbsp;&nbsp;About&nbsp;me</h3>
 
-- ☁️ &nbsp;A software enginner lives in the cloud
-- 🔥 &nbsp;&nbsp;Passion for Kubernetes and Go
+- ☁️ &nbsp;A software engineer lives in the cloud
+- 🔥 &nbsp;Passion for Kubernetes and Go
 - ⚡ &nbsp;Playing Heartstone, PlayStation and Poker
 
 <h3>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h3>
