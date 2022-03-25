@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Hao 👋</h1>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=haoruan.haoruan)
 
-
-<br/>
 <h3>👨🏽‍💻&nbsp;&nbsp;About&nbsp;me</h3>
 
-- ☁️ &nbsp;A software enginner live in the cloud
+- ☁️ &nbsp;A software enginner lives in the cloud
 - 🔥 &nbsp;&nbsp;Passion for Kubernetes and Go
 - ⚡ &nbsp;Playing Heartstone, PlayStation and Poker
 
@@ -21,7 +20,5 @@
 </p>
 
 <h3>‍🚀Stats</h3>
-<p align="left">
-    <img src ="https://github-readme-stats.vercel.app/api?username=haoruan&show_icons=true&count_private=true" height="200"/>&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoruan&layout=compact" height="200" />
-</p>
+<p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=haoruan&show_icons=true&count_private=true"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoruan&layout=compact"/></p>
